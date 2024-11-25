@@ -1,0 +1,3 @@
+Daniel Konjarski
+101436648
+Git Repository created from AWS EC2 instance
